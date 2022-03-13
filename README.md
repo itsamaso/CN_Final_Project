@@ -1,10 +1,12 @@
-# Computer Networking
+# || Final Project In Computer Networking Course ||
 <p align="center">
  <img
 src="https://user-images.githubusercontent.com/101502571/158055673-3580c170-2e76-4b16-b09e-c4eb63afe261.PNG"
       >
  </p>
  
+## Computer Networking Definition:
+_A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies._
 
 ## Overview:
   _In this repository, We will be showing a basic chatting application that was built according to the principles of reliable data transfer.
