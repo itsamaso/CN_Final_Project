@@ -4,7 +4,7 @@
 
 ## PACKET TYPES AND FORMATS
 
-The first two octets of every packet determine what is the type of the packet.
+The first two octets of every packet determine the type of the packet.
 
 ### PACKET TYPE #1: SESSION REQUEST (CLIENT -> SERVER)
 
