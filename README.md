@@ -15,10 +15,10 @@ _A computer network is a set of computers sharing resources located on or provid
 ## Wiki:
   _We have managed to create a well-written wiki pages, you can take a look and get a general prespective of our acomplishment.
   It consists of the following pages:_
-  - _Home_
-  - _EXPLANATION FOR CLASSES_
-  - _FILE UPLOAD AND DOWNLOAD_
-  - _GETTING STARTED_
-  - _HOW THE SYSTEM MANAGES LOST PACKETS_
-  - _HOW THE SYSTEM OVERCOMES LATENCY_
-  - _MESSAGE COMMMUNICATION_
+- _[Illustrating How To Run The Application](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-To-Run-The-Application)_
+- _[Illustrating How Can A Single User Connect To The Server](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Connect-To-The-Server)_
+- _[Illustrating How Can 2 Users Communicate](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-2-Users-Communicate)_
+- _[Illustrating How Can A Single User Upload A File To The Server](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Upload-A-File-To-The-Server)_
+- _[Illustrating How Can A Single User Download Or Save A File From The Application](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Download-Or-Save-A-File-From-The-Application)_
+- _[Illustrating The Classes U.M.L](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-The-Classes-U.M.L)_
+- _[Illustrating How Each Packet Was Built Of](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Each-Packet-Was-Built-Of)_
