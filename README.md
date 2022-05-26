@@ -18,8 +18,7 @@ _A computer network is a set of computers sharing resources located on or provid
   It consists of the following pages:_
 - _[Home](https://github.com/itsamaso/CN_Final_Project/wiki)_
 - _[Illustrating How To Run The Application](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-To-Run-The-Application)_
-- _[Illustrating How Can A Single User Connect To The Server](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Connect-To-The-Server)_
-- _[Illustrating How Can 2 Users Communicate](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-2-Users-Communicate)_
+- _[Illustrating How Can 2 Users Or More Communicate](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-2-Users-Communicate)_
 - _[Illustrating How Can A Single User Upload A File To The Server](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Upload-A-File-To-The-Server)_
 - _[Illustrating How Can A Single User Download Or Save A File From The Application](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-A-Single-User-Download-Or-Save-A-File-From-The-Application)_
 - _[Illustrating Classes Roles](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-Classes-Roles)_
