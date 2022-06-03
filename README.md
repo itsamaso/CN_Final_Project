@@ -17,7 +17,7 @@ _A computer network is a set of computers sharing resources located on or provid
   _An elaborative wiki has been setup for you. It clarifies how our application runs and the way it works.
   It consists of the following pages:_
 - _[Home](https://github.com/itsamaso/CN_Final_Project/wiki)_
-- _[Illustrating How To Run The Application](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-To-Run-The-Application)_
+- _[Explaining How To Run The System](https://github.com/itsamaso/CN_Final_Project/wiki/Explaining-How-To-Run-The-System)_
 - _[Illustrating How Can 2 Users Or More Communicate](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-Can-2-Users-Communicate)_
 - _[Illustrating How To Upload And Then Save Or Download A Wanted File](https://github.com/itsamaso/CN_Final_Project/wiki/Illustrating-How-To-Upload-And-Then-Save-Or-Download-A-Wanted-File)_
 - _[Explaining Classes Roles](https://github.com/itsamaso/CN_Final_Project/wiki/Explaining-Classes-Roles)_
